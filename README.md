@@ -14,6 +14,7 @@ Para executar este aplicativo, primeiro você precisa baixar os arquivos ou clon
 ## Comandos necessarios:
     - npm install
     - npm start
+    - execução padrão: http://localhost:3000/
     
 ## Udacity Books API
 O aplicativo busca dados da API Udacity Books para pesquisar novos livros, o que significa que o acesso à Internet é necessário para que todas as funcionalidades funcionem corretamente. Esse servidor de back-end é necessário para que o projeto seja executado corretamente, mas nenhuma instalação ou alteração adicional precisa ser feita no código. O arquivo BooksAPI.js contém todos os métodos que funcionam com esta API, bem como seu endereço atual.
