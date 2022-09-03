@@ -3,8 +3,11 @@
 # Sobre o projeto
 Aplicativo single-page application(SPA) que permite aos usuários manter uma lista de alguns de seus livros favoritos. Livros podem ser categorizados pelo usuário em três categorias - "leu", "deseja ler" ou "está lendo no momento". O aplicativo mantém o armazenamento na categoria local e remotamente e também permite que os usuários pesquisem novos livros na API Udacity Books. Depois que um livro é encontrado na tela de pesquisa, os usuários podem adicioná-lo à estante desejada.
 
+## Listas e categorias.
+![Listas e categorias](https://github.com/klvosantos/assets/blob/main/booktracking/booktracking.jpg?raw=true) 
+
 ## Opções de manipulação implantadas.
-![Listagem dos livros](https://github.com/klvosantos/assets/blob/main/booktracking/manipulacao%20dos%20livros.jpg?raw=true) 
+![Opções de manipulação implantadas](https://github.com/klvosantos/assets/blob/main/booktracking/manipulacao%20dos%20livros.jpg?raw=true) 
 
 ## Mecanismo de busca.
 ![Mecanismo de busca](https://github.com/klvosantos/assets/blob/main/booktracking/mecanismo%20de%20busca.jpg?raw=true) 
@@ -29,3 +32,9 @@ Mais informações:
 https://www.udacity.com/
 
 https://github.com/udacity
+
+# Tecnologias utilizadas
+## Front end
+- HTML / CSS / JS 
+- ReactJS
+- Udacity Books API
